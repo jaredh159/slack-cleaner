@@ -1,4 +1,4 @@
-FROM kfei/slack-cleaner
+FROM sgratzl/slack-cleaner
 
 COPY LICENSE README.md /
 
